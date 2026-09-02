@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ibrohim Qobilov 👋</h1>
 <p align="center">
-  <em>📱 Mobile (Flutter) & Backend Developer | Building clean, scalable and impactful applications</em>
+  <em>🚀 Senior-level Mobile (Flutter & Native) & Full-Stack Developer | Clean Architecture & High-Performance Apps</em>
 </p>
 
 <p align="center">
@@ -20,40 +20,80 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Professional Skills
 
-#### 📱 Mobile & Frontend
+#### 📱 Mobile Development (Cross-Platform & Native)
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Flutter_Web_%26_Desktop-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Web & Desktop" />
 </p>
 
-#### ⚙️ Backend & Languages
+#### 🏛️ Architecture & State Management
 <p align="left">
+  <img src="https://img.shields.io/badge/BLoC_%2F_Cubit-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-2E7D32?style=for-the-badge&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/MVVM_Pattern-1565C0?style=for-the-badge&logoColor=white" alt="MVVM" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-00838F?style=for-the-badge&logoColor=white" alt="SOLID" />
+  <img src="https://img.shields.io/badge/Dependency_Injection_(GetIt)-5C6BC0?style=for-the-badge&logoColor=white" alt="GetIt" />
+</p>
+
+#### 🌐 Networking, Storage & Mobile Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/Dio-009688?style=for-the-badge&logoColor=white" alt="Dio" />
+  <img src="https://img.shields.io/badge/Retrofit-00796B?style=for-the-badge&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/REST_API-0288D1?style=for-the-badge&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Hive_%26_Isar-FFA000?style=for-the-badge&logoColor=white" alt="Hive & Isar" />
+  <img src="https://img.shields.io/badge/SQLite_%2F_Drift-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Flutter_Secure_Storage-D32F2F?style=for-the-badge&logoColor=white" alt="Secure Storage" />
+  <img src="https://img.shields.io/badge/Freezed_%26_JSON_Serializable-455A64?style=for-the-badge&logoColor=white" alt="Freezed" />
+  <img src="https://img.shields.io/badge/GoRouter_%2F_AutoRoute-1E88E5?style=for-the-badge&logoColor=white" alt="Routing" />
+  <img src="https://img.shields.io/badge/Lottie_Animations-00DDB3?style=for-the-badge&logo=lottie&logoColor=black" alt="Lottie" />
+  <img src="https://img.shields.io/badge/Firebase_FCM_(Push_Notifications)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="FCM" />
+  <img src="https://img.shields.io/badge/Payment_Integration_(Click_Payme_Stripe)-00C853?style=for-the-badge&logoColor=white" alt="Payments" />
+</p>
+
+#### ⚙️ Backend & Web
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 #### 🗄️ Databases & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-#### 🧰 Tools & DevOps
+#### 🧰 Tools, CI/CD & Design
 <p align="left">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Codemagic-F4511E?style=for-the-badge&logoColor=white" alt="Codemagic" />
+  <img src="https://img.shields.io/badge/Fastlane-00F2FF?style=for-the-badge&logo=fastlane&logoColor=black" alt="Fastlane" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux_&_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
 ---
