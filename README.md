@@ -92,14 +92,11 @@
 
 ---
 
-### 📊 GitHub & Problem Solving Analytics
+### 📊 Activity & Problem Solving
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Ibrohim-Qobilov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrohim's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" alt="Ibrohim's Streak Stats" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=tokyonight&font=baloo" alt="Ibrohim's LeetCode Stats" />
 </p>
 
