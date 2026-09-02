@@ -56,8 +56,8 @@
   <img src="https://img.shields.io/badge/Freezed_%26_JSON_Serializable-455A64?style=for-the-badge&logoColor=white" alt="Freezed" />
   <img src="https://img.shields.io/badge/GoRouter_%2F_AutoRoute-1E88E5?style=for-the-badge&logoColor=white" alt="Routing" />
   <img src="https://img.shields.io/badge/Lottie_Animations-00DDB3?style=for-the-badge&logo=lottie&logoColor=black" alt="Lottie" />
-  <img src="https://img.shields.io/badge/Firebase_FCM_(Push_Notifications)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="FCM" />
-  <img src="https://img.shields.io/badge/Payment_Integration_(Click_Payme_Stripe)-00C853?style=for-the-badge&logoColor=white" alt="Payments" />
+  <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="FCM" />
+  <img src="https://img.shields.io/badge/Payments_(Click_Payme_Stripe)-00C853?style=for-the-badge&logoColor=white" alt="Payments" />
 </p>
 
 #### ⚙️ Backend & Web
@@ -127,12 +127,18 @@
 
 <p align="left">
   <a href="https://t.me/Ibrohim_Qobilov" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://skillicons.dev/icons?i=telegram" width="44" height="44" alt="Telegram" />
   </a>
-  <a href="https://github.com/Ibrohim-Qobilov" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ibrohim-qobilov" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:88963422+Ibrohim-Qobilov@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ibrohim-Qobilov" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" />
   </a>
 </p>
