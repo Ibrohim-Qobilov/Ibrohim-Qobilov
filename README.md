@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Retrofit-00796B?style=for-the-badge&logoColor=white" alt="Retrofit" />
   <img src="https://img.shields.io/badge/REST_API-0288D1?style=for-the-badge&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Hive_%26_Isar-FFA000?style=for-the-badge&logoColor=white" alt="Hive & Isar" />
   <img src="https://img.shields.io/badge/SQLite_%2F_Drift-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Flutter_Secure_Storage-D32F2F?style=for-the-badge&logoColor=white" alt="Secure Storage" />
@@ -95,9 +95,7 @@
 ### 📊 Activity & Problem Solving
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak Stats" />
-  &nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=dark&font=baloo" height="195" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak Stats" />&nbsp;&nbsp;<img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=dark&font=baloo" height="150" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -105,5 +103,5 @@
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://t.me/Ibrohim_qobilov" target="_blank"><img src="assets/icons/telegram.svg" width="44" height="44" alt="Telegram" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ibrokhim-kobilov/" target="_blank"><img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:ibrohimqobiloff@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://x.com/IbrokhimKobilov" target="_blank"><img src="assets/icons/x.svg" width="44" height="44" alt="X" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="assets/icons/leetcode.svg" width="44" height="44" alt="LeetCode" /></a>&nbsp;&nbsp;<a href="https://medium.com/@Ibrokhim_kobilov" target="_blank"><img src="assets/icons/medium.svg" width="44" height="44" alt="Medium" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/18169377/ibrokhim-kobilov" target="_blank"><img src="assets/icons/stackoverflow.svg" width="44" height="44" alt="Stack Overflow" /></a>&nbsp;&nbsp;<a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="assets/icons/github.svg" width="44" height="44" alt="GitHub" /></a>
+  <a href="https://t.me/Ibrohim_qobilov" target="_blank"><img src="assets/icons/telegram.svg" width="44" height="44" alt="Telegram" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ibrokhim-kobilov/" target="_blank"><img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:ibrohimqobiloff@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://x.com/IbrokhimKobilov" target="_blank"><img src="assets/icons/x.svg" width="44" height="44" alt="X" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="assets/icons/leetcode.svg" width="44" height="44" alt="LeetCode" /></a>&nbsp;&nbsp;<a href="https://medium.com/@Ibrohim_kobilov" target="_blank"><img src="assets/icons/medium.svg" width="44" height="44" alt="Medium" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/18169377/ibrokhim-kobilov" target="_blank"><img src="assets/icons/stackoverflow.svg" width="44" height="44" alt="Stack Overflow" /></a>&nbsp;&nbsp;<a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="assets/icons/github.svg" width="44" height="44" alt="GitHub" /></a>
 </p>
