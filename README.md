@@ -98,7 +98,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub & Problem Solving Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ibrohim-Qobilov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrohim's GitHub Stats" />
@@ -107,6 +107,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrohim-Qobilov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=tokyonight&font=baloo" alt="Ibrohim's LeetCode Stats" />
 </p>
 
 ---
@@ -126,16 +127,24 @@
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://t.me/Ibrohim_Qobilov" target="_blank">
+  <a href="https://t.me/Ibrohim_qobilov" target="_blank">
     <img src="https://skillicons.dev/icons?i=telegram" width="44" height="44" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ibrohim-qobilov" target="_blank">
+  <a href="https://www.linkedin.com/in/ibrokhim-kobilov/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:88963422+Ibrohim-Qobilov@users.noreply.github.com">
+  <a href="mailto:ibrohimqobiloff@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/IbrokhimKobilov" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="44" height="44" alt="X (Twitter)" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="44" height="44" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ibrohim-Qobilov" target="_blank">
