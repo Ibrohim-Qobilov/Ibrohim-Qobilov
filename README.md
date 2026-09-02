@@ -1,20 +1,14 @@
 <h1 align="center">Hi there, I'm Ibrohim Qobilov 👋</h1>
+
 <p align="center">
-  <em>🚀 Senior-level Mobile (Flutter & Native) & Full-Stack Developer | Clean Architecture & High-Performance Apps</em>
+  <a href="https://github.com/Ibrohim-Qobilov">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Senior-level+Mobile+(Flutter+%26+Native)+Developer;Clean+Architecture+%26+BLoC+%2F+Riverpod;FastAPI+%26+Scalable+Backend+Services;Building+Impactful+%26+Secure+Applications" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ibrohim-Qobilov">
     <img src="https://komarev.com/ghpvc/?username=Ibrohim-Qobilov&color=02569B&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Achievements & Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ibrohim-Qobilov&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Ibrohim's Trophies" />
   </a>
 </p>
 
@@ -101,12 +95,11 @@
 ### 📊 GitHub & Problem Solving Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrohim-Qobilov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrohim's GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Ibrohim-Qobilov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrohim's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" alt="Ibrohim's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrohim-Qobilov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=tokyonight&font=baloo" alt="Ibrohim's LeetCode Stats" />
 </p>
 
