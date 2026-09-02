@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ibrohim-Qobilov">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Senior-level+Mobile+(Flutter+%26+Native)+Developer;Clean+Architecture+%26+BLoC+%2F+Riverpod;FastAPI+%26+Scalable+Backend+Services;Building+Impactful+%26+Secure+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Senior+Flutter+%26+Mobile+Software+Engineer;Advanced+State+Management+(BLoC+%26+Riverpod);Backend+Engineering+with+Python+%26+FastAPI;Problem+Solving+%26+Algorithmic+Thinking" alt="Typing SVG" />
   </a>
 </p>
 
