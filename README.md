@@ -105,27 +105,5 @@
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://t.me/Ibrohim_qobilov" target="_blank">
-    <img src="assets/icons/telegram.svg" width="44" height="44" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ibrokhim-kobilov/" target="_blank">
-    <img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ibrohimqobiloff@gmail.com">
-    <img src="assets/icons/gmail.svg" width="44" height="44" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/IbrokhimKobilov" target="_blank">
-    <img src="assets/icons/x.svg" width="44" height="44" alt="X" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank">
-    <img src="assets/icons/leetcode.svg" width="44" height="44" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Ibrohim-Qobilov" target="_blank">
-    <img src="assets/icons/github.svg" width="44" height="44" alt="GitHub" />
-  </a>
+  <a href="https://t.me/Ibrohim_qobilov" target="_blank"><img src="assets/icons/telegram.svg" width="44" height="44" alt="Telegram" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ibrokhim-kobilov/" target="_blank"><img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:ibrohimqobiloff@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://x.com/IbrokhimKobilov" target="_blank"><img src="assets/icons/x.svg" width="44" height="44" alt="X" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="assets/icons/leetcode.svg" width="44" height="44" alt="LeetCode" /></a>&nbsp;&nbsp;<a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="assets/icons/github.svg" width="44" height="44" alt="GitHub" /></a>
 </p>
