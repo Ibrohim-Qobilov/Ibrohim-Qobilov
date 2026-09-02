@@ -95,9 +95,9 @@
 ### 📊 Activity & Problem Solving
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" alt="Ibrohim's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak Stats" />
   &nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=tokyonight&font=baloo" alt="Ibrohim's LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=dark&font=baloo" height="195" alt="LeetCode Stats" />
 </p>
 
 ---
