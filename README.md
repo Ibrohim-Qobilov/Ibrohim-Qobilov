@@ -21,14 +21,14 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Flutter_Web_%26_Desktop-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Web & Desktop" />
 </p>
 
 #### 🏛️ Architecture & State Management
 <p align="left">
-  <img src="https://img.shields.io/badge/BLoC_%2F_Cubit-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/BLoC_%2F_Cubit-1E88E5?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
   <img src="https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Riverpod" />
   <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
   <img src="https://img.shields.io/badge/Clean_Architecture-2E7D32?style=for-the-badge&logoColor=white" alt="Clean Architecture" />
@@ -39,53 +39,53 @@
 
 #### 🌐 Networking, Storage & Mobile Ecosystem
 <p align="left">
-  <img src="https://img.shields.io/badge/Dio-009688?style=for-the-badge&logoColor=white" alt="Dio" />
+  <img src="https://img.shields.io/badge/Dio-00897B?style=for-the-badge&logoColor=white" alt="Dio" />
   <img src="https://img.shields.io/badge/Retrofit-00796B?style=for-the-badge&logoColor=white" alt="Retrofit" />
   <img src="https://img.shields.io/badge/REST_API-0288D1?style=for-the-badge&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Hive_%26_Isar-FFA000?style=for-the-badge&logoColor=white" alt="Hive & Isar" />
+  <img src="https://img.shields.io/badge/WebSocket-1E293B?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/GraphQL-C2185B?style=for-the-badge&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Hive_%26_Isar-E65100?style=for-the-badge&logoColor=white" alt="Hive & Isar" />
   <img src="https://img.shields.io/badge/SQLite_%2F_Drift-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Flutter_Secure_Storage-D32F2F?style=for-the-badge&logoColor=white" alt="Secure Storage" />
-  <img src="https://img.shields.io/badge/Freezed_%26_JSON_Serializable-455A64?style=for-the-badge&logoColor=white" alt="Freezed" />
-  <img src="https://img.shields.io/badge/GoRouter_%2F_AutoRoute-1E88E5?style=for-the-badge&logoColor=white" alt="Routing" />
-  <img src="https://img.shields.io/badge/Lottie_Animations-00DDB3?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie" />
-  <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="FCM" />
-  <img src="https://img.shields.io/badge/Payments_(Click_Payme_Stripe)-00C853?style=for-the-badge&logoColor=white" alt="Payments" />
+  <img src="https://img.shields.io/badge/Flutter_Secure_Storage-C62828?style=for-the-badge&logoColor=white" alt="Secure Storage" />
+  <img src="https://img.shields.io/badge/Freezed_%26_JSON_Serializable-37474F?style=for-the-badge&logoColor=white" alt="Freezed" />
+  <img src="https://img.shields.io/badge/GoRouter_%2F_AutoRoute-1565C0?style=for-the-badge&logoColor=white" alt="Routing" />
+  <img src="https://img.shields.io/badge/Lottie_Animations-0D9488?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie" />
+  <img src="https://img.shields.io/badge/Firebase_FCM-D97706?style=for-the-badge&logo=firebase&logoColor=white" alt="FCM" />
+  <img src="https://img.shields.io/badge/Payments_(Click_Payme_Stripe)-16A34A?style=for-the-badge&logoColor=white" alt="Payments" />
 </p>
 
 #### ⚙️ Backend, Web & Extensions
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Chrome%20Extensions%20(MV3)-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+  <img src="https://img.shields.io/badge/Google%20Chrome%20Extensions%20(MV3)-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-2D3748?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-EA580C?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0284C7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 #### 🗄️ Databases & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-D97706?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-059669?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MongoDB-15803D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 #### 🧰 Tools, CI/CD & Design
 <p align="left">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Android_Studio-16A34A?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-EA580C?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Codemagic-F4511E?style=for-the-badge&logoColor=white" alt="Codemagic" />
-  <img src="https://img.shields.io/badge/Fastlane-00F2FF?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Linux_&_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2563EB?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Codemagic-EA580C?style=for-the-badge&logoColor=white" alt="Codemagic" />
+  <img src="https://img.shields.io/badge/Fastlane-0284C7?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" />
+  <img src="https://img.shields.io/badge/Postman-EA580C?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-E11D48?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Linux_&_Terminal-27272A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-16A34A?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
 ---
