@@ -49,8 +49,8 @@
   <img src="https://img.shields.io/badge/Flutter_Secure_Storage-D32F2F?style=for-the-badge&logoColor=white" alt="Secure Storage" />
   <img src="https://img.shields.io/badge/Freezed_%26_JSON_Serializable-455A64?style=for-the-badge&logoColor=white" alt="Freezed" />
   <img src="https://img.shields.io/badge/GoRouter_%2F_AutoRoute-1E88E5?style=for-the-badge&logoColor=white" alt="Routing" />
-  <img src="https://img.shields.io/badge/Lottie_Animations-00DDB3?style=for-the-badge&logo=lottie&logoColor=black" alt="Lottie" />
-  <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="FCM" />
+  <img src="https://img.shields.io/badge/Lottie_Animations-00DDB3?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie" />
+  <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="FCM" />
   <img src="https://img.shields.io/badge/Payments_(Click_Payme_Stripe)-00C853?style=for-the-badge&logoColor=white" alt="Payments" />
 </p>
 
@@ -59,19 +59,16 @@
   <img src="https://img.shields.io/badge/Google%20Chrome%20Extensions%20(MV3)-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 #### 🗄️ Databases & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
@@ -84,10 +81,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Codemagic-F4511E?style=for-the-badge&logoColor=white" alt="Codemagic" />
-  <img src="https://img.shields.io/badge/Fastlane-00F2FF?style=for-the-badge&logo=fastlane&logoColor=black" alt="Fastlane" />
+  <img src="https://img.shields.io/badge/Fastlane-00F2FF?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Linux_&_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux_&_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
