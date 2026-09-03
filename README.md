@@ -111,7 +111,10 @@ Production-grade browser extensions and open-source tools published on the **Goo
       <h3 align="center">🕌 Prayer Times — Namoz Vaqtlari</h3>
       <p align="center">
         <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Chrome_Store-Rasmiy_Nashr-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
+          <img src="https://img.shields.io/badge/Chrome_Store-Rasmiy_Nashr-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
+        </a>
+        <a href="https://github.com/Ibrohim-Qobilov/prayer-times-extension" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         </a>
       </p>
       <p>O‘zbekistonning <b>210+ shahar va tumanlari</b> uchun OMI (Musulmonlar idorasi) manbasiga asoslangan aniq vaqtlar, keyingi namozga qolgan vaqt va xabarnomalar.</p>
@@ -153,7 +156,7 @@ Production-grade browser extensions and open-source tools published on the **Goo
 ### 🌐 To'g'ridan-to'g'ri Havolalar (Direct Links)
 
 * 🕌 **Prayer Times (Namoz Vaqtlari)**:  
-  👉 **[Chrome Web Store sahifasi](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl)** · [GitHub kodi](https://github.com/Ibrohim-Qobilov/daily-pulse)
+  👉 **[Chrome Web Store sahifasi](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl)** · [GitHub kodi](https://github.com/Ibrohim-Qobilov/prayer-times-extension)
 
 * 📝 **Lotin ⇄ Kirill Konverteri & Imlo Tekshirgich**:  
   👉 **[Chrome Web Store sahifasi](https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj)** · [GitHub kodi](https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension)
