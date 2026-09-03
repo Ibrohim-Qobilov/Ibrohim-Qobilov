@@ -123,11 +123,6 @@ Production-grade browser extensions and open-source tools published on the **Goo
         <li>📍 <b>Auto-Location:</b> Hududni avtomatik aniqlash.</li>
         <li>🔒 <b>100% Offline:</b> Shaxsiy ma'lumotlar mutlaqo yig'ilmaydi.</li>
       </ul>
-      <p align="center">
-        <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl" target="_blank">
-          <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
-        </a>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📝 Lotin ⇄ Kirill — Matn Konverteri</h3>
@@ -145,11 +140,18 @@ Production-grade browser extensions and open-source tools published on the **Goo
         <li>⌨️ <b>Tezkor tugmalar:</b> Mac (<code>⌥+⇧+C/F</code>) va Windows (<code>Alt+Shift+C/F</code>).</li>
         <li>✨ <b>Auto-Fix:</b> Imlo xatolarini bitta bosishda to'g'rilash.</li>
       </ul>
-      <p align="center">
-        <a href="https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj" target="_blank">
-          <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
-        </a>
-      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl" target="_blank">
+        <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj" target="_blank">
+        <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
+      </a>
     </td>
   </tr>
 </table>
