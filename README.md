@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ibrohim-Qobilov">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Senior+Flutter+%26+Mobile+Software+Engineer;Advanced+State+Management+(BLoC+%26+Riverpod);Backend+Engineering+with+Python+%26+FastAPI;Chrome+Extension+%26+Product+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0284C7&center=true&vCenter=true&width=700&lines=Senior+Flutter+%26+Mobile+Software+Engineer;Advanced+State+Management+(BLoC+%26+Riverpod);Dart+%26+Flutter+Package+Author+(pub.dev);Chrome+Extension+%26+Product+Creator;Backend+Engineering+with+Python+%26+FastAPI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -98,6 +98,63 @@
 <p align="center">
   <a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak Stats" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=dark&font=baloo" height="150" alt="LeetCode Stats" /></a>
 </p>
+
+---
+
+### 📦 Published Dart & Flutter Packages (pub.dev)
+
+Official packages and plugins published on the **Dart & Flutter pub.dev** ecosystem:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 dynamic_icon_plus</h3>
+      <p align="center">
+        <a href="https://pub.dev/packages/dynamic_icon_plus" target="_blank">
+          <img src="https://img.shields.io/badge/pub.dev-v0.1.1-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev">
+        </a>
+        <a href="https://github.com/Ibrohim-Qobilov/dynamic_icon_plus" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </p>
+      <p>Android va iOS ilovalarda dastur ikonkasini qayta ishga tushirmasdan (runtime) dinamik almashtirish uchun maxsus plagin.</p>
+      <ul>
+        <li>📱 <b>Multi-Platform:</b> Android va iOS uchun to‘liq mahalliy qo‘llov.</li>
+        <li>⚡ <b>Zero Restart:</b> Dasturni to‘xtatmasdan darhol ikonkani almashtirish.</li>
+        <li>🛠️ <b>Production-Ready:</b> Oson konfiguratsiya va qulay API interfeysi.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🇺🇿 uz_kit</h3>
+      <p align="center">
+        <a href="https://pub.dev/packages/uz_kit" target="_blank">
+          <img src="https://img.shields.io/badge/pub.dev-v0.1.1-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev">
+        </a>
+        <a href="https://github.com/Ibrohim-Qobilov/uz_kit" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </p>
+      <p>O‘zbekiston fintex va mobil ilovalari uchun universal to‘plam: Uzcard/Humo aniqlash, PINFL va summani so‘zga aylantirish.</p>
+      <ul>
+        <li>💳 <b>Karta aniqlagich:</b> Uzcard, Humo, Visa va Mastercard avto-aniqlash.</li>
+        <li>🔢 <b>Formatlagich:</b> Telefon raqamlari va summani so‘zlarga o‘girish.</li>
+        <li>🆔 <b>Validatsiya:</b> JShShIR (PINFL) va pasport seriyalarini tekshirish.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://pub.dev/packages/dynamic_icon_plus" target="_blank">
+        <img src="https://img.shields.io/badge/👉_pub.dev'da_Ko'rish-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="View on pub.dev">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://pub.dev/packages/uz_kit" target="_blank">
+        <img src="https://img.shields.io/badge/👉_pub.dev'da_Ko'rish-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="View on pub.dev">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
