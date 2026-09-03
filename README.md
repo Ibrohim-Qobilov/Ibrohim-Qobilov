@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ibrohim-Qobilov">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Senior+Flutter+%26+Mobile+Software+Engineer;Advanced+State+Management+(BLoC+%26+Riverpod);Backend+Engineering+with+Python+%26+FastAPI;Problem+Solving+%26+Algorithmic+Thinking" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0284C7&center=true&vCenter=true&width=700&lines=Senior+Flutter+%26+Mobile+Software+Engineer;Advanced+State+Management+(BLoC+%26+Riverpod);Backend+Engineering+with+Python+%26+FastAPI;Chrome+Extension+%26+Product+Creator;Open-Source+Dart+Package+Author" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,6 +11,109 @@
     <img src="https://komarev.com/ghpvc/?username=Ibrohim-Qobilov&color=02569B&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
 </p>
+
+---
+
+### 🚀 Featured Products & Chrome Extensions
+
+Production-grade browser extensions and open-source tools published on the **Google Chrome Web Store**:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🕌 Prayer Times — Namoz Vaqtlari</h3>
+      <p align="center">
+        <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl">
+          <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Published-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
+        </a>
+      </p>
+      <p>Accurate Islamic prayer times covering all <b>210+ districts of Uzbekistan</b> based on the Muslim Board of Uzbekistan (OMI), featuring next-prayer countdown and live visual notifications.</p>
+      <ul>
+        <li>⚡ <b>0ms Latency:</b> Pure Vanilla JS & Manifest V3 architecture.</li>
+        <li>📍 <b>Auto-Location:</b> Intelligent district auto-detection.</li>
+        <li>🔒 <b>100% Offline:</b> Zero telemetry, tracking, or remote code.</li>
+      </ul>
+      <p align="center">
+        <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl"><b>Install from Chrome Web Store →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Lotin ⇄ Kirill & Imlo Tekshirgich</h3>
+      <p align="center">
+        <a href="https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension">
+          <img src="https://img.shields.io/badge/GitHub-Open%20Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <img src="https://img.shields.io/badge/Chrome%20Store-In%20Review-amber?style=for-the-badge" alt="Review">
+      </p>
+      <p>Smart phonetic transliterator and real-time Uzbek spell checker with 1-click auto-fix, macOS & Windows hotkeys, and right-click context menu.</p>
+      <ul>
+        <li>🧠 <b>Linguistic Rules:</b> Ye/E, O'/G', tutuq and soft signs.</li>
+        <li>⌨️ <b>Hotkeys:</b> Mac (<code>⌥+⇧+C/F</code>) & Windows (<code>Alt+Shift+C/F</code>).</li>
+        <li>✨ <b>Spell Check:</b> Instant 1-click auto-fix & suggestions.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension"><b>View Source on GitHub →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📦 Open-Source Packages & Developer Tools
+
+Reusable packages and libraries built for the developer community:
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🎨 <a href="https://github.com/Ibrohim-Qobilov/dynamic_icon_plus">dynamic_icon_plus</a></h4>
+      <p>A specialized Flutter/Dart package for <b>dynamically changing application launcher icons</b> programmatically on iOS and Android.</p>
+      <p><code>Dart</code> · <code>Flutter</code> · <code>iOS / Android</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🇺🇿 <a href="https://github.com/Ibrohim-Qobilov/uz_kit">uz_kit</a></h4>
+      <p>Comprehensive utility kit for Uzbek language localization, phone number formatters, currency, and validation helpers in Dart & Flutter.</p>
+      <p><code>Dart</code> · <code>Localization</code> · <code>Utilities</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚡ <a href="https://github.com/Ibrohim-Qobilov/Dart_web_server">Dart_web_server</a></h4>
+      <p>Lightweight, high-performance HTTP web server built purely in Dart, demonstrating asynchronous request handling and routing.</p>
+      <p><code>Dart</code> · <code>Backend</code> · <code>HTTP Server</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📱 Featured Mobile & Full-Stack Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏨 <a href="https://github.com/Ibrohim-Qobilov/Booking_Hotel">Booking Hotel & Backend</a></h4>
+      <p>Full-stack mobile hotel reservation platform with a custom backend (<a href="https://github.com/Ibrohim-Qobilov/booking_hotel_backend">booking_hotel_backend</a>), room browsing, filtering, date booking, and authentication.</p>
+      <p><b>Tech:</b> <code>Flutter</code> · <code>Clean Architecture</code> · <code>BLoC</code> · <code>REST API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🍔 <a href="https://github.com/Ibrohim-Qobilov/Foody">Foody — Food Delivery App</a></h4>
+      <p>Modern on-demand food ordering mobile app with animated category exploration, item customization, cart calculation, and order tracking.</p>
+      <p><b>Tech:</b> <code>Flutter</code> · <code>Riverpod</code> · <code>Lottie</code> · <code>UI/UX</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛋️ <a href="https://github.com/Ibrohim-Qobilov/Furniture_shop">Furniture E-Commerce Shop</a></h4>
+      <p>Minimalist e-commerce application featuring responsive grid layouts, interactive product previews, wishlist, and smooth payment checkout flow.</p>
+      <p><b>Tech:</b> <code>Flutter</code> · <code>State Management</code> · <code>Clean Architecture</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 <a href="https://github.com/Ibrohim-Qobilov/simple-chat-with-socket">Real-Time Socket Chat</a></h4>
+      <p>Instant bi-directional messaging application built on WebSockets with online presence, typing status, and real-time message delivery.</p>
+      <p><b>Tech:</b> <code>Flutter</code> · <code>WebSockets</code> · <code>Node.js</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,8 +157,9 @@
   <img src="https://img.shields.io/badge/Payments_(Click_Payme_Stripe)-00C853?style=for-the-badge&logoColor=white" alt="Payments" />
 </p>
 
-#### ⚙️ Backend & Web
+#### ⚙️ Backend, Web & Extensions
 <p align="left">
+  <img src="https://img.shields.io/badge/Google%20Chrome%20Extensions%20(MV3)-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
