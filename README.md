@@ -14,56 +14,6 @@
 
 ---
 
-### 🚀 Featured Products & Chrome Extensions
-
-Production-grade browser extensions and open-source tools published on the **Google Chrome Web Store**:
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🕌 Prayer Times — Namoz Vaqtlari</h3>
-      <p align="center">
-        <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Chrome_Store-Rasmiy_Nashr-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
-        </a>
-      </p>
-      <p>O‘zbekistonning <b>210+ shahar va tumanlari</b> uchun OMI (Musulmonlar idorasi) manbasiga asoslangan aniq vaqtlar, keyingi namozga qolgan vaqt va xabarnomalar.</p>
-      <ul>
-        <li>⚡ <b>0ms Latency:</b> Sof Vanilla JS va Manifest V3 arxitekturasi.</li>
-        <li>📍 <b>Auto-Location:</b> Hududni avtomatik aniqlash.</li>
-        <li>🔒 <b>100% Offline:</b> Shaxsiy ma'lumotlar mutlaqo yig'ilmaydi.</li>
-      </ul>
-      <p align="center">
-        <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl" target="_blank">
-          <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 Lotin ⇄ Kirill & Imlo Tekshirgich</h3>
-      <p align="center">
-        <a href="https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-        <img src="https://img.shields.io/badge/Chrome_Store-In_Review-f59e0b?style=for-the-badge" alt="Review">
-      </p>
-      <p>O‘zbek tili uchun aqlli fonetik matn konverteri hamda xatolarni real vaqtda aniqlab, 1 bosishda to‘g‘rilovchi (Auto-Fix) vosita.</p>
-      <ul>
-        <li>🧠 <b>Nozik qoidalar:</b> Ye/E, O'/G', tutuq va yumshatish belgilari.</li>
-        <li>⌨️ <b>Tezkor tugmalar:</b> Mac (<code>⌥+⇧+C/F</code>) va Windows (<code>Alt+Shift+C/F</code>).</li>
-        <li>✨ <b>Imlo tekshirgich:</b> Xatoni bitta bosishda to'g'rilash.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension" target="_blank">
-          <img src="https://img.shields.io/badge/👉_GitHub'da_Ko'rish-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="View Source">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack & Professional Skills
 
 #### 📱 Mobile Development (Cross-Platform & Native)
@@ -151,15 +101,62 @@ Production-grade browser extensions and open-source tools published on the **Goo
 
 ---
 
-### 🌐 Kengaytmalarni O'rnatish (Direct Extension Links)
+### 🚀 Featured Products & Chrome Extensions
 
-To'g'ridan-to'g'ri brauzerga o'rnatish yoki manba kodlarini ko'rish:
+Production-grade browser extensions and open-source tools published on the **Google Chrome Web Store**:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🕌 Prayer Times — Namoz Vaqtlari</h3>
+      <p align="center">
+        <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Chrome_Store-Rasmiy_Nashr-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
+        </a>
+      </p>
+      <p>O‘zbekistonning <b>210+ shahar va tumanlari</b> uchun OMI (Musulmonlar idorasi) manbasiga asoslangan aniq vaqtlar, keyingi namozga qolgan vaqt va xabarnomalar.</p>
+      <ul>
+        <li>⚡ <b>0ms Latency:</b> Sof Vanilla JS va Manifest V3 arxitekturasi.</li>
+        <li>📍 <b>Auto-Location:</b> Hududni avtomatik aniqlash.</li>
+        <li>🔒 <b>100% Offline:</b> Shaxsiy ma'lumotlar mutlaqo yig'ilmaydi.</li>
+      </ul>
+      <p align="center">
+        <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl" target="_blank">
+          <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Lotin ⇄ Kirill & Imlo Tekshirgich</h3>
+      <p align="center">
+        <a href="https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Chrome_Store-In_Review-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
+        </a>
+      </p>
+      <p>O‘zbek tili uchun aqlli fonetik matn konverteri hamda xatolarni real vaqtda aniqlab, 1 bosishda to‘g‘rilovchi (Auto-Fix) vosita.</p>
+      <ul>
+        <li>🧠 <b>Nozik qoidalar:</b> Ye/E, O'/G', tutuq va yumshatish belgilari.</li>
+        <li>⌨️ <b>Tezkor tugmalar:</b> Mac (<code>⌥+⇧+C/F</code>) va Windows (<code>Alt+Shift+C/F</code>).</li>
+        <li>✨ <b>Imlo tekshirgich:</b> Xatoni bitta bosishda to'g'rilash.</li>
+      </ul>
+      <p align="center">
+        <a href="https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj" target="_blank">
+          <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 To'g'ridan-to'g'ri Havolalar (Direct Links)
 
 * 🕌 **Prayer Times (Namoz Vaqtlari)**:  
-  👉 **[https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl)** — *Google Chrome Web Store rasmiy sahifasi (Bir bosishda o'rnatish)*.
+  👉 **[Chrome Web Store sahifasi](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl)** · [GitHub kodi](https://github.com/Ibrohim-Qobilov/daily-pulse)
 
 * 📝 **Lotin ⇄ Kirill Konverteri & Imlo Tekshirgich**:  
-  👉 **[https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension](https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension)** — *GitHub ochiq manba kodi va to'liq qo'llanma*.
+  👉 **[Chrome Web Store sahifasi](https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj)** · [GitHub kodi](https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension)
 
 ---
 
