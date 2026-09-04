@@ -57,6 +57,7 @@
 #### ⚙️ Backend, Web & Extensions
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Chrome%20Extensions%20(MV3)-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+  <img src="https://img.shields.io/badge/Aiogram_3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram 3" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -67,6 +68,8 @@
 
 #### 🗄️ Databases & Cloud
 <p align="left">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Firebase-D97706?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-059669?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/MongoDB-15803D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -205,6 +208,65 @@ Production-grade browser extensions and open-source tools published on the **Goo
     <td align="center" valign="middle">
       <a href="https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj" target="_blank">
         <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤖 Production Telegram Bots & Microservices
+
+Scalable, high-performance Telegram bots built with **Python 3.11**, **Aiogram 3**, and cloud-deployed on **Render**:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Tez Bozorlik Bot</h3>
+      <p align="center">
+        <a href="https://t.me/tez_bozorlik_bot" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-@tez__bozorlik__bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
+        </a>
+        <a href="https://github.com/Ibrohim-Qobilov/bozorlik_bot" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </p>
+      <p>Oila va jamoalar uchun aqlli umumiy bozorlik ro‘yxati bot. Jonli sinxronizatsiya, avto narx ajratish va eslatmalar.</p>
+      <ul>
+        <li>👥 <b>Ulashilgan Savat:</b> Maxsus havola orqali bitta ro‘yxatda birgalikda ishlash.</li>
+        <li>⚡ <b>Aqlli Ajratgich:</b> Narx, miqdor va mahsulot nomini avtomatik tanish (<code>non, nok 2000, uzum</code>).</li>
+        <li>🌐 <b>8 ta Til:</b> O‘zbek (lotin/kirill), rus, ingliz, qozoq, tojik, turk, qirg‘iz.</li>
+        <li>🧪 <b>54 Unit Tests:</b> 100% test qamrovi va Render cloud 24/7 avto-deploy.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💳 Tez Karta Bot</h3>
+      <p align="center">
+        <a href="https://t.me/tezkartabot" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-@tezkartabot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
+        </a>
+        <a href="https://github.com/Ibrohim-Qobilov/karta-bot" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </p>
+      <p>Bank kartalarini xavfsiz saqlash, boshqarish va do‘stlarga tezkor ulashish uchun shifrlangan Telegram hamyon.</p>
+      <ul>
+        <li>🔒 <b>Fernet (AES-256):</b> Karta ma'lumotlari harbiy darajadagi shifrlash bilan himoyalangan.</li>
+        <li>🔑 <b>PIN-kod Himoyasi:</b> 4 xonali shaxsiy PIN va avto-bloklanish tizimi.</li>
+        <li>🔍 <b>Inline Mode:</b> Har qanday chatda <code>@tezkartabot</code> orqali kartani 1 soniyada yuborish.</li>
+        <li>🌐 <b>8 ta Til:</b> To‘liq ko‘p tilli interfeys va vaqt mintaqalari qo‘llovi.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://t.me/tez_bozorlik_bot" target="_blank">
+        <img src="https://img.shields.io/badge/👉_Telegram'da_Ochish-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Open Telegram">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://t.me/tezkartabot" target="_blank">
+        <img src="https://img.shields.io/badge/👉_Telegram'da_Ochish-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Open Telegram">
       </a>
     </td>
   </tr>
