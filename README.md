@@ -251,7 +251,7 @@ Scalable, high-performance Telegram bots built with **Python 3.11**, **Aiogram 3
       </p>
       <p>Bank kartalarini xavfsiz saqlash, boshqarish va do‘stlarga tezkor ulashish uchun shifrlangan Telegram hamyon.</p>
       <ul>
-        <li>🔒 <b>Fernet (AES-256):</b> Karta ma'lumotlari harbiy darajadagi shifrlash bilan himoyalangan.</li>
+        <li>🔒 <b>Xavfsiz Shifrlash:</b> Karta raqamlari bazada shifrlangan (Fernet/AES) holda saqlanadi.</li>
         <li>🔑 <b>PIN-kod Himoyasi:</b> 4 xonali shaxsiy PIN va avto-bloklanish tizimi.</li>
         <li>🔍 <b>Inline Mode:</b> Har qanday chatda <code>@tezkartabot</code> orqali kartani 1 soniyada yuborish.</li>
         <li>🌐 <b>8 ta Til:</b> To‘liq ko‘p tilli interfeys va vaqt mintaqalari qo‘llovi.</li>
