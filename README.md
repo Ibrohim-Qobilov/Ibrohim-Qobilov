@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-bfc.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-portfolio--bfc.pages.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Ibrohim-Qobilov">
     <img src="https://komarev.com/ghpvc/?username=Ibrohim-Qobilov&color=02569B&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
@@ -274,8 +280,39 @@ Scalable, high-performance Telegram bots built with **Python 3.11**, **Aiogram 3
 
 ---
 
+### 🌐 Open Data & Web Platforms
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">📊 Daily Pulse — O'zbekiston Iqtisodiy Monitoringi</h3>
+      <p align="center">
+        <a href="https://daily-pulse-uz.pages.dev" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Web_App-daily--pulse--uz.pages.dev-10b981?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Live Web App">
+        </a>
+        <a href="https://github.com/Ibrohim-Qobilov/daily-pulse" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </p>
+      <p>O‘zbekiston bo‘yicha Markaziy bank valyuta kurslari, oltin narxi, hududiy ob-havo va yoqilg‘i narxlarini har kuni avtomatlashtirilgan tarzda jamlovchi ochiq ma'lumotlar platformasi.</p>
+      <ul>
+        <li>🔄 <b>Avtomatik ETL:</b> GitHub Actions orqali har kuni avtomatik ma'lumotlar yig'ish va yangilash.</li>
+        <li>📈 <b>Interaktiv Grafiklar:</b> Valyuta va tovarlar dinamikasining qulay vizualizatsiyasi.</li>
+        <li>⚡ <b>Yuqori Tezlik:</b> Cloudflare Pages global CDN orqali tezkor yuklanish.</li>
+      </ul>
+      <p align="center">
+        <a href="https://daily-pulse-uz.pages.dev" target="_blank">
+          <img src="https://img.shields.io/badge/👉_Saytga_O'tish-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Daily Pulse">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://t.me/Ibrohim_qobilov" target="_blank"><img src="assets/icons/telegram.svg" width="44" height="44" alt="Telegram" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ibrokhim-kobilov/" target="_blank"><img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:ibrohimqobiloff@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://x.com/IbrokhimKobilov" target="_blank"><img src="assets/icons/x.svg" width="44" height="44" alt="X" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="assets/icons/leetcode.svg" width="44" height="44" alt="LeetCode" /></a>&nbsp;&nbsp;<a href="https://medium.com/@Ibrohim_kobilov" target="_blank"><img src="assets/icons/medium.svg" width="44" height="44" alt="Medium" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/18169377/ibrokhim-kobilov" target="_blank"><img src="assets/icons/stackoverflow.svg" width="44" height="44" alt="Stack Overflow" /></a>&nbsp;&nbsp;<a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="assets/icons/github.svg" width="44" height="44" alt="GitHub" /></a>
+  <a href="https://t.me/Ibrohim_qobilov" target="_blank"><img src="assets/icons/telegram.svg" width="44" height="44" alt="Telegram" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ibrokhim-kobilov/" target="_blank"><img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:ibrohimqobiloff@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://x.com/Ibrohim_qobilov" target="_blank"><img src="assets/icons/x.svg" width="44" height="44" alt="X" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="assets/icons/leetcode.svg" width="44" height="44" alt="LeetCode" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/18169377/ibrokhim-kobilov" target="_blank"><img src="assets/icons/stackoverflow.svg" width="44" height="44" alt="Stack Overflow" /></a>&nbsp;&nbsp;<a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="assets/icons/github.svg" width="44" height="44" alt="GitHub" /></a>
 </p>
