@@ -280,37 +280,6 @@ Scalable, high-performance Telegram bots built with **Python 3.11**, **Aiogram 3
 
 ---
 
-### 🌐 Open Data & Web Platforms
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3 align="center">📊 Daily Pulse — O'zbekiston Iqtisodiy Monitoringi</h3>
-      <p align="center">
-        <a href="https://daily-pulse-uz.pages.dev" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Web_App-daily--pulse--uz.pages.dev-10b981?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Live Web App">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/daily-pulse" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </p>
-      <p>O‘zbekiston bo‘yicha Markaziy bank valyuta kurslari, oltin narxi, hududiy ob-havo va yoqilg‘i narxlarini har kuni avtomatlashtirilgan tarzda jamlovchi ochiq ma'lumotlar platformasi.</p>
-      <ul>
-        <li>🔄 <b>Avtomatik ETL:</b> GitHub Actions orqali har kuni avtomatik ma'lumotlar yig'ish va yangilash.</li>
-        <li>📈 <b>Interaktiv Grafiklar:</b> Valyuta va tovarlar dinamikasining qulay vizualizatsiyasi.</li>
-        <li>⚡ <b>Yuqori Tezlik:</b> Cloudflare Pages global CDN orqali tezkor yuklanish.</li>
-      </ul>
-      <p align="center">
-        <a href="https://daily-pulse-uz.pages.dev" target="_blank">
-          <img src="https://img.shields.io/badge/👉_Saytga_O'tish-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Daily Pulse">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📬 Connect With Me
 
 <p align="left">
