@@ -272,6 +272,37 @@ Production-grade browser extensions and open-source tools published on the **Goo
   </tr>
 </table>
 
+<br/>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">✨ PulseRead AI — Smart Web Summarizer & Article Copilot</h3>
+      <p align="center">
+        <a href="https://github.com/Ibrohim-Qobilov/pulseread-extension" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://github.com/Ibrohim-Qobilov/pulseread-extension" target="_blank">
+          <img src="https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Manifest V3">
+        </a>
+      </p>
+      <p>Google Gemini 2.0 Flash AI bilan ishlaydigan aqlli brauzer maqola xulosalovchi va o'qish yordamchisi (Manifest V3).</p>
+      <ul>
+        <li>⚡ <b>1-Click Summary:</b> Sahifani 1 bosishda (<code>Alt+S</code>) 3-4 ta muhim fikr, o'qish vaqti va xulosasini chiqarib beradi.</li>
+        <li>📖 <b>Interactive SidePanel:</b> Har qanday maqola bilan brauzer yon panelida muloqot qilish va savol berish.</li>
+        <li>✨ <b>Floating Selection Copilot:</b> Tanlangan matnni 1 bosishda tushuntirish, tarjima qilish yoki xulosa qilish.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Ibrohim-Qobilov/pulseread-extension" target="_blank">
+        <img src="https://img.shields.io/badge/👉_GitHub'da_Ko'rish-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🤖 Production Telegram Bots & Microservices
