@@ -20,6 +20,16 @@
 
 ---
 
+### 👨‍💻 About Me & Current Focus
+
+- ⚡ **Senior Mobile & Full-Stack Engineer** specializing in **Flutter, Dart, Python (FastAPI)**, and **Chrome Extensions (MV3)**.
+- 📦 Author of published Flutter packages (`flutter_ai_stream`, `dynamic_icon_plus`, `uz_kit`) and official Chrome Web Store extensions.
+- 🏛️ Strong advocate of **Clean Architecture**, **BLoC / Riverpod**, and production-grade unit testing.
+- 🚀 Currently building **AI-powered browser copilots** and **real-time streaming SDKs**.
+- 💬 Ask me about **Flutter Architecture**, **Chrome Extensions**, and **Telegram Bot Microservices**.
+
+---
+
 ### 🛠️ Tech Stack & Professional Skills
 
 #### 📱 Mobile Development (Cross-Platform & Native)
@@ -99,10 +109,14 @@
 
 ---
 
-### 📊 Activity & Problem Solving
+### 📊 GitHub Activity & Problem Solving
 
 <p align="center">
-  <a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak Stats" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=dark&font=baloo" height="150" alt="LeetCode Stats" /></a>
+  <a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=Ibrohim-Qobilov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak Stats" /></a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=dark&font=baloo" height="150" alt="LeetCode Stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrohim-Qobilov&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="150" alt="Top Languages" /></a>
 </p>
 
 ---
