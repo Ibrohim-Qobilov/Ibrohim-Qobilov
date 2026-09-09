@@ -111,14 +111,20 @@
 
 Official packages and plugins published on the **Dart & Flutter pub.dev** ecosystem:
 
-* **[dynamic_icon_plus](https://pub.dev/packages/dynamic_icon_plus)** [![pub.dev](https://img.shields.io/pub/v/dynamic_icon_plus?logo=dart&label=pub.dev)](https://pub.dev/packages/dynamic_icon_plus) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/dynamic_icon_plus)
-  * Android va iOS ilovalarda dastur ikonkasini qayta ishga tushirmasdan (runtime) dinamik almashtirish uchun maxsus plagin. Multi-platform (iOS/Android) hamda zero restart qo'lloviga ega.
+#### 🎨 [dynamic_icon_plus](https://pub.dev/packages/dynamic_icon_plus)
+[![pub.dev](https://img.shields.io/pub/v/dynamic_icon_plus?logo=dart&label=pub.dev)](https://pub.dev/packages/dynamic_icon_plus) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/dynamic_icon_plus)
 
-* **[uz_kit](https://pub.dev/packages/uz_kit)** [![pub.dev](https://img.shields.io/pub/v/uz_kit?logo=dart&label=pub.dev)](https://pub.dev/packages/uz_kit) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/uz_kit)
-  * O‘zbekiston fintex va mobil ilovalari uchun universal to‘plam: Uzcard/Humo avto-aniqlash, PINFL / pasport validatsiyasi va summani so‘zga o‘girish.
+Android va iOS ilovalarda dastur ikonkasini qayta ishga tushirmasdan (runtime) dinamik almashtirish uchun maxsus plagin. Multi-platform (iOS/Android) hamda zero restart qo'lloviga ega.
 
-* **[flutter_ai_stream](https://pub.dev/packages/flutter_ai_stream)** [![pub.dev](https://img.shields.io/pub/v/flutter_ai_stream?logo=dart&label=pub.dev)](https://pub.dev/packages/flutter_ai_stream) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/flutter_ai_stream)
-  * Flutter uchun universal real-time streaming AI SDK: Gemini 2.0, OpenAI, Claude, SSE va Declarative Tool Calling support hamda drop-in `AiChatView` UI componenti.
+#### 🇺🇿 [uz_kit](https://pub.dev/packages/uz_kit)
+[![pub.dev](https://img.shields.io/pub/v/uz_kit?logo=dart&label=pub.dev)](https://pub.dev/packages/uz_kit) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/uz_kit)
+
+O‘zbekiston fintex va mobil ilovalari uchun universal to‘plam: Uzcard/Humo avto-aniqlash, PINFL / pasport validatsiyasi va summani so‘zga o‘girish.
+
+#### 🤖 [flutter_ai_stream](https://pub.dev/packages/flutter_ai_stream)
+[![pub.dev](https://img.shields.io/pub/v/flutter_ai_stream?logo=dart&label=pub.dev)](https://pub.dev/packages/flutter_ai_stream) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/flutter_ai_stream)
+
+Flutter uchun universal real-time streaming AI SDK: Gemini 2.0, OpenAI, Claude, SSE va Declarative Tool Calling support hamda drop-in `AiChatView` UI componenti.
 
 ---
 
@@ -126,17 +132,25 @@ Official packages and plugins published on the **Dart & Flutter pub.dev** ecosys
 
 Production-grade browser extensions and open-source tools published on the **Google Chrome Web Store**:
 
-* **[Prayer Times — Namoz Vaqtlari](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl)** [![Chrome Web Store](https://img.shields.io/badge/Chrome_Store-Rasmiy_Nashr-10b981?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/prayer-times-extension)
-  * O‘zbekistonning **210+ shahar va tumanlari** uchun OMI rasmiy taqvimi bo‘yicha aniq namoz vaqtlari, 0ms latency, avto-hudud va 100% oflayn rejim.
+#### 🕌 [Prayer Times — Namoz Vaqtlari](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl)
+[![Chrome Store](https://img.shields.io/badge/Chrome_Store-Rasmiy_Nashr-10b981?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/prayer-times-extension)
 
-* **[Lotin ⇄ Kirill — Matn Konverteri](https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj)** [![Chrome Web Store](https://img.shields.io/badge/Chrome_Store-Rasmiy_Nashr-10b981?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension)
-  * O‘zbek tili uchun daqiq fonetik qoidalar (Ye/E, O'/G', tutuq belgilari), tezkor tugmalar (`Alt+Shift+C/F`) va imlo xatolarini real vaqtda 1 bosishda to‘g‘rilovchi konverter.
+O‘zbekistonning **210+ shahar va tumanlari** uchun OMI rasmiy taqvimi bo‘yicha aniq namoz vaqtlari, 0ms latency, avto-hudud va 100% oflayn rejim.
 
-* **[PulseRead AI](https://github.com/Ibrohim-Qobilov/pulseread-extension)** [![Manifest V3](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?logo=googlechrome&logoColor=white)](https://github.com/Ibrohim-Qobilov/pulseread-extension) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/pulseread-extension)
-  * Gemini 2.0 Flash AI bilan ishlaydigan brauzer maqola xulosalovchi va o'qish yordamchisi: 1-Click summary (`Alt+S`), interactive SidePanel va Selection Copilot.
+#### 📝 [Lotin ⇄ Kirill — Matn Konverteri](https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj)
+[![Chrome Store](https://img.shields.io/badge/Chrome_Store-Rasmiy_Nashr-10b981?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension)
 
-* **[CodeLens AI](https://github.com/Ibrohim-Qobilov/codelens-extension)** [![Manifest V3](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?logo=googlechrome&logoColor=white)](https://github.com/Ibrohim-Qobilov/codelens-extension) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/codelens-extension)
-  * GitHub va veb-saytlardagi kodlarni 1 bosishda tushuntiruvchi, xatolarni aniqlovchi (bug inspector) va optimallashtiruvchi (refactor generator) AI kengaytmasi.
+O‘zbek tili uchun daqiq fonetik qoidalar (Ye/E, O'/G', tutuq belgilari), tezkor tugmalar (`Alt+Shift+C/F`) va imlo xatolarini real vaqtda 1 bosishda to‘g‘rilovchi konverter.
+
+#### ✨ [PulseRead AI](https://github.com/Ibrohim-Qobilov/pulseread-extension)
+[![Manifest V3](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?logo=googlechrome&logoColor=white)](https://github.com/Ibrohim-Qobilov/pulseread-extension) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/pulseread-extension)
+
+Gemini 2.0 Flash AI bilan ishlaydigan brauzer maqola xulosalovchi va o'qish yordamchisi: 1-Click summary (`Alt+S`), interactive SidePanel va Selection Copilot.
+
+#### 💻 [CodeLens AI](https://github.com/Ibrohim-Qobilov/codelens-extension)
+[![Manifest V3](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?logo=googlechrome&logoColor=white)](https://github.com/Ibrohim-Qobilov/codelens-extension) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/codelens-extension)
+
+GitHub va veb-saytlardagi kodlarni 1 bosishda tushuntiruvchi, xatolarni aniqlovchi (bug inspector) va optimallashtiruvchi (refactor generator) AI kengaytmasi.
 
 ---
 
@@ -144,11 +158,15 @@ Production-grade browser extensions and open-source tools published on the **Goo
 
 Scalable, high-performance Telegram bots built with **Python 3.11**, **Aiogram 3**, and cloud-deployed on **Render**:
 
-* **[Tez Bozorlik Bot](https://t.me/tez_bozorlik_bot)** [![Telegram Bot](https://img.shields.io/badge/Telegram-@tez__bozorlik__bot-229ED9?logo=telegram&logoColor=white)](https://t.me/tez_bozorlik_bot) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/bozorlik_bot)
-  * Oila va jamoalar uchun aqlli umumiy bozorlik ro‘yxati bot. Jonli sinxronizatsiya, avto narx ajratish, 8 ta til va 54 ta unit testlar bilan 100% test qamrovi.
+#### 🛒 [Tez Bozorlik Bot](https://t.me/tez_bozorlik_bot)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-@tez__bozorlik__bot-229ED9?logo=telegram&logoColor=white)](https://t.me/tez_bozorlik_bot) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/bozorlik_bot)
 
-* **[Tez Karta Bot](https://t.me/tezkartabot)** [![Telegram Bot](https://img.shields.io/badge/Telegram-@tezkartabot-229ED9?logo=telegram&logoColor=white)](https://t.me/tezkartabot) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/karta-bot)
-  * Bank kartalarini xavfsiz saqlash va do‘stlarga tezkor ulashish uchun shifrlangan Telegram hamyon (Fernet/AES, PIN-kod himoyasi va `@tezkartabot` inline mode).
+Oila va jamoalar uchun aqlli umumiy bozorlik ro‘yxati bot. Jonli sinxronizatsiya, avto narx ajratish, 8 ta til va 54 ta unit testlar bilan 100% test qamrovi.
+
+#### 💳 [Tez Karta Bot](https://t.me/tezkartabot)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-@tezkartabot-229ED9?logo=telegram&logoColor=white)](https://t.me/tezkartabot) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/karta-bot)
+
+Bank kartalarini xavfsiz saqlash va do‘stlarga tezkor ulashish uchun shifrlangan Telegram hamyon (Fernet/AES, PIN-kod himoyasi va `@tezkartabot` inline mode).
 
 ---
 
