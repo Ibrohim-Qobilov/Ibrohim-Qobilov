@@ -183,33 +183,11 @@ Official packages and plugins published on the **Dart & Flutter pub.dev** ecosys
         <li>🎨 <b>Ready UI:</b> Bir qatorda ulanadigan drop-in AiChatView va xotira boshqaruvi.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧾 DocuPulse AI</h3>
-      <p align="center">
-        <a href="https://github.com/Ibrohim-Qobilov/docupulse_ai" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-        <a href="https://t.me/DocuPulseAiBot" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
-        </a>
-      </p>
-      <p>Gemini 2.0 Flash Vision AI bilan ishlaydigan aqlli chek va hujjatlar skaneri (Flutter Web & Mobile PWA + Telegram Bot).</p>
-      <ul>
-        <li>👁️ <b>Vision OCR:</b> Cheklarni 1 soniyada tahlil qilib toza jadvalga o'tkazadi.</li>
-        <li>📊 <b>Analytics:</b> Xarajatlar statistikasi, fl_chart diagrammalari va CSV eksport.</li>
-        <li>🤖 <b>Multi-Channel:</b> Interaktiv Web Dashboard va Telegram AI Bot.</li>
-      </ul>
-    </td>
   </tr>
   <tr>
     <td align="center" valign="middle">
       <a href="https://pub.dev/packages/flutter_ai_stream" target="_blank">
         <img src="https://img.shields.io/badge/👉_pub.dev'da_Ko'rish-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="View on pub.dev">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/Ibrohim-Qobilov/docupulse_ai" target="_blank">
-        <img src="https://img.shields.io/badge/👉_GitHub'da_Ko'rish-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
       </a>
     </td>
   </tr>
