@@ -109,14 +109,10 @@
 
 ---
 
-### 📊 GitHub Activity & Problem Solving
+### 📊 Activity & Problem Solving
 
 <p align="center">
-  <a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=Ibrohim-Qobilov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak Stats" /></a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=dark&font=baloo" height="150" alt="LeetCode Stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrohim-Qobilov&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="150" alt="Top Languages" /></a>
+  <a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak Stats" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=dark&font=baloo" height="150" alt="LeetCode Stats" /></a>
 </p>
 
 ---
