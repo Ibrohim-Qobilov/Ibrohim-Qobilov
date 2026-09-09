@@ -157,16 +157,6 @@ O‘zbekistonning **210+ shahar va tumanlari** uchun OMI rasmiy taqvimi bo‘yic
 
 O‘zbek tili uchun daqiq fonetik qoidalar (Ye/E, O'/G', tutuq belgilari), tezkor tugmalar (`Alt+Shift+C/F`) va imlo xatolarini real vaqtda 1 bosishda to‘g‘rilovchi konverter.
 
-#### [PulseRead AI](https://github.com/Ibrohim-Qobilov/pulseread-extension)
-[![Manifest V3](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?logo=googlechrome&logoColor=white)](https://github.com/Ibrohim-Qobilov/pulseread-extension) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/pulseread-extension)
-
-Gemini 2.0 Flash AI bilan ishlaydigan brauzer maqola xulosalovchi va o'qish yordamchisi: 1-Click summary (`Alt+S`), interactive SidePanel va Selection Copilot.
-
-#### [CodeLens AI](https://github.com/Ibrohim-Qobilov/codelens-extension)
-[![Manifest V3](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?logo=googlechrome&logoColor=white)](https://github.com/Ibrohim-Qobilov/codelens-extension) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/codelens-extension)
-
-GitHub va veb-saytlardagi kodlarni 1 bosishda tushuntiruvchi, xatolarni aniqlovchi (bug inspector) va optimallashtiruvchi (refactor generator) AI kengaytmasi.
-
 ---
 
 ### Production Telegram Bots & Microservices
