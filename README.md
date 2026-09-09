@@ -136,6 +136,11 @@ O‘zbekiston fintex va mobil ilovalari uchun universal to‘plam: Uzcard/Humo a
 
 Flutter uchun universal real-time streaming AI SDK: Gemini 2.0, OpenAI, Claude, SSE va Declarative Tool Calling support hamda drop-in `AiChatView` UI componenti.
 
+#### [network_pulse](https://pub.dev/packages/network_pulse)
+[![pub.dev](https://img.shields.io/pub/v/network_pulse?logo=dart&label=pub.dev)](https://pub.dev/packages/network_pulse) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/network_pulse)
+
+Universal Flutter HTTP & Dio network monitoring, in-app debug inspector (cURL export), va avtomatik Telegram error alert dispatcher.
+
 ---
 
 ### Featured Products & Chrome Extensions
