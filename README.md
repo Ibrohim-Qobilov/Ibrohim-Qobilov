@@ -111,87 +111,14 @@
 
 Official packages and plugins published on the **Dart & Flutter pub.dev** ecosystem:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 dynamic_icon_plus</h3>
-      <p align="center">
-        <a href="https://pub.dev/packages/dynamic_icon_plus" target="_blank">
-          <img src="https://img.shields.io/badge/pub.dev-v0.1.1-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/dynamic_icon_plus" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </p>
-      <p>Android va iOS ilovalarda dastur ikonkasini qayta ishga tushirmasdan (runtime) dinamik almashtirish uchun maxsus plagin.</p>
-      <ul>
-        <li>📱 <b>Multi-Platform:</b> Android va iOS uchun to‘liq mahalliy qo‘llov.</li>
-        <li>⚡ <b>Zero Restart:</b> Dasturni to‘xtatmasdan darhol ikonkani almashtirish.</li>
-        <li>🛠️ <b>Production-Ready:</b> Oson konfiguratsiya va qulay API interfeysi.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🇺🇿 uz_kit</h3>
-      <p align="center">
-        <a href="https://pub.dev/packages/uz_kit" target="_blank">
-          <img src="https://img.shields.io/badge/pub.dev-v0.1.1-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/uz_kit" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </p>
-      <p>O‘zbekiston fintex va mobil ilovalari uchun universal to‘plam: Uzcard/Humo aniqlash, PINFL va summani so‘zga aylantirish.</p>
-      <ul>
-        <li>💳 <b>Karta aniqlagich:</b> Uzcard, Humo, Visa va Mastercard avto-aniqlash.</li>
-        <li>🔢 <b>Formatlagich:</b> Telefon raqamlari va summani so‘zlarga o‘girish.</li>
-        <li>🆔 <b>Validatsiya:</b> JShShIR (PINFL) va pasport seriyalarini tekshirish.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://pub.dev/packages/dynamic_icon_plus" target="_blank">
-        <img src="https://img.shields.io/badge/👉_pub.dev'da_Ko'rish-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="View on pub.dev">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://pub.dev/packages/uz_kit" target="_blank">
-        <img src="https://img.shields.io/badge/👉_pub.dev'da_Ko'rish-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="View on pub.dev">
-      </a>
-    </td>
-  </tr>
-</table>
+* **[dynamic_icon_plus](https://pub.dev/packages/dynamic_icon_plus)** [![pub.dev](https://img.shields.io/pub/v/dynamic_icon_plus?logo=dart&label=pub.dev)](https://pub.dev/packages/dynamic_icon_plus) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/dynamic_icon_plus)
+  * Android va iOS ilovalarda dastur ikonkasini qayta ishga tushirmasdan (runtime) dinamik almashtirish uchun maxsus plagin. Multi-platform (iOS/Android) hamda zero restart qo'lloviga ega.
 
-<br/>
+* **[uz_kit](https://pub.dev/packages/uz_kit)** [![pub.dev](https://img.shields.io/pub/v/uz_kit?logo=dart&label=pub.dev)](https://pub.dev/packages/uz_kit) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/uz_kit)
+  * O‘zbekiston fintex va mobil ilovalari uchun universal to‘plam: Uzcard/Humo avto-aniqlash, PINFL / pasport validatsiyasi va summani so‘zga o‘girish.
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3 align="center">🤖 flutter_ai_stream</h3>
-      <p align="center">
-        <a href="https://pub.dev/packages/flutter_ai_stream" target="_blank">
-          <img src="https://img.shields.io/badge/pub.dev-v0.0.2-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/flutter_ai_stream" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </p>
-      <p>Flutter uchun universal real-time streaming AI SDK: Gemini 2.0, OpenAI, Claude, SSE va Tool Calling support.</p>
-      <ul>
-        <li>⚡ <b>Real-Time SSE:</b> Xuddi ChatGPT kabi matnlarni harfma-harf jonli oqizib beradi.</li>
-        <li>🛠️ <b>Declarative Tools:</b> Dart funksiyalarini AI qurollari sifatida avto-chaqirish.</li>
-        <li>🎨 <b>Ready UI:</b> Bir qatorda ulanadigan drop-in AiChatView va xotira boshqaruvi.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://pub.dev/packages/flutter_ai_stream" target="_blank">
-        <img src="https://img.shields.io/badge/👉_pub.dev'da_Ko'rish-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="View on pub.dev">
-      </a>
-    </td>
-  </tr>
-</table>
+* **[flutter_ai_stream](https://pub.dev/packages/flutter_ai_stream)** [![pub.dev](https://img.shields.io/pub/v/flutter_ai_stream?logo=dart&label=pub.dev)](https://pub.dev/packages/flutter_ai_stream) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/flutter_ai_stream)
+  * Flutter uchun universal real-time streaming AI SDK: Gemini 2.0, OpenAI, Claude, SSE va Declarative Tool Calling support hamda drop-in `AiChatView` UI componenti.
 
 ---
 
@@ -199,109 +126,17 @@ Official packages and plugins published on the **Dart & Flutter pub.dev** ecosys
 
 Production-grade browser extensions and open-source tools published on the **Google Chrome Web Store**:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🕌 Prayer Times — Namoz Vaqtlari</h3>
-      <p align="center">
-        <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl" target="_blank">
-          <img src="https://img.shields.io/badge/Chrome_Store-Rasmiy_Nashr-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/prayer-times-extension" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </p>
-      <p>O‘zbekistonning <b>210+ shahar va tumanlari</b> uchun OMI rasmiy taqvimi bo‘yicha aniq namoz vaqtlari va bildirishnomalar.</p>
-      <ul>
-        <li>⚡ <b>0ms Latency:</b> Sof Vanilla JS va Manifest V3 arxitekturasi.</li>
-        <li>📍 <b>Auto-Location:</b> Hududni avtomatik aniqlash.</li>
-        <li>🔒 <b>100% Offline:</b> Shaxsiy ma'lumotlar mutlaqo yig'ilmaydi.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 Lotin ⇄ Kirill — Matn Konverteri</h3>
-      <p align="center">
-        <a href="https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj" target="_blank">
-          <img src="https://img.shields.io/badge/Chrome_Store-Rasmiy_Nashr-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </p>
-      <p>O‘zbek tili uchun daqiq fonetik qoidalar va imlo xatolarini real vaqtda 1 bosishda to‘g‘rilovchi aqlli konverter.</p>
-      <ul>
-        <li>🧠 <b>Daqiq qoidalar:</b> Ye/E, O'/G', tutuq va yumshatish belgilari.</li>
-        <li>⌨️ <b>Tezkor tugmalar:</b> Mac (<code>⌥+⇧+C/F</code>) va Windows (<code>Alt+Shift+C/F</code>).</li>
-        <li>✨ <b>Auto-Fix:</b> Imlo xatolarini bitta bosishda to'g'rilash.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl" target="_blank">
-        <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj" target="_blank">
-        <img src="https://img.shields.io/badge/👉_Chrome_Store'da_O'rnatish-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install">
-      </a>
-    </td>
-  </tr>
-</table>
+* **[Prayer Times — Namoz Vaqtlari](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl)** [![Chrome Web Store](https://img.shields.io/badge/Chrome_Store-Rasmiy_Nashr-10b981?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/llmneonfpeddecikfceheldkcejbgodl) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/prayer-times-extension)
+  * O‘zbekistonning **210+ shahar va tumanlari** uchun OMI rasmiy taqvimi bo‘yicha aniq namoz vaqtlari, 0ms latency, avto-hudud va 100% oflayn rejim.
 
-<br/>
+* **[Lotin ⇄ Kirill — Matn Konverteri](https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj)** [![Chrome Web Store](https://img.shields.io/badge/Chrome_Store-Rasmiy_Nashr-10b981?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/lpfcembdchdnkokakbpkgdnjogpghioj) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/latin-cyrillic-extension)
+  * O‘zbek tili uchun daqiq fonetik qoidalar (Ye/E, O'/G', tutuq belgilari), tezkor tugmalar (`Alt+Shift+C/F`) va imlo xatolarini real vaqtda 1 bosishda to‘g‘rilovchi konverter.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✨ PulseRead AI</h3>
-      <p align="center">
-        <a href="https://github.com/Ibrohim-Qobilov/pulseread-extension" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/pulseread-extension" target="_blank">
-          <img src="https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Manifest V3">
-        </a>
-      </p>
-      <p>Gemini 2.0 Flash AI bilan ishlaydigan aqlli brauzer maqola xulosalovchi va o'qish yordamchisi (Manifest V3).</p>
-      <ul>
-        <li>⚡ <b>1-Click Summary:</b> Sahifani 1 bosishda (<code>Alt+S</code>) 3-4 ta muhim fikr va o'qish vaqtini beradi.</li>
-        <li>📖 <b>Interactive SidePanel:</b> Maqola bilan yon panelda muloqot qilish va savol berish.</li>
-        <li>✨ <b>Selection Copilot:</b> Tanlangan matnni 1 bosishda tushuntirish va tarjima qilish.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 CodeLens AI</h3>
-      <p align="center">
-        <a href="https://github.com/Ibrohim-Qobilov/codelens-extension" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/codelens-extension" target="_blank">
-          <img src="https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Manifest V3">
-        </a>
-      </p>
-      <p>GitHub va veb-saytlardagi kodlarni 1 bosishda tushuntiruvchi, xatolarni aniqlovchi va optimallashtiruvchi AI kengaytmasi.</p>
-      <ul>
-        <li>🧠 <b>Code Logic:</b> Kod mantiqini qadamma-qadam tushuntirish (Dart, Python, JS, C++).</li>
-        <li>🐞 <b>Bug Inspector:</b> Null-pointer va xotira xatolarini aniqlash.</li>
-        <li>⚡ <b>Refactor Generator:</b> Optimallashgan toza kod nusxasini berish.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/Ibrohim-Qobilov/pulseread-extension" target="_blank">
-        <img src="https://img.shields.io/badge/👉_GitHub'da_Ko'rish-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/Ibrohim-Qobilov/codelens-extension" target="_blank">
-        <img src="https://img.shields.io/badge/👉_GitHub'da_Ko'rish-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
-      </a>
-    </td>
-  </tr>
-</table>
+* **[PulseRead AI](https://github.com/Ibrohim-Qobilov/pulseread-extension)** [![Manifest V3](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?logo=googlechrome&logoColor=white)](https://github.com/Ibrohim-Qobilov/pulseread-extension) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/pulseread-extension)
+  * Gemini 2.0 Flash AI bilan ishlaydigan brauzer maqola xulosalovchi va o'qish yordamchisi: 1-Click summary (`Alt+S`), interactive SidePanel va Selection Copilot.
+
+* **[CodeLens AI](https://github.com/Ibrohim-Qobilov/codelens-extension)** [![Manifest V3](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-2563EB?logo=googlechrome&logoColor=white)](https://github.com/Ibrohim-Qobilov/codelens-extension) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/codelens-extension)
+  * GitHub va veb-saytlardagi kodlarni 1 bosishda tushuntiruvchi, xatolarni aniqlovchi (bug inspector) va optimallashtiruvchi (refactor generator) AI kengaytmasi.
 
 ---
 
@@ -309,58 +144,11 @@ Production-grade browser extensions and open-source tools published on the **Goo
 
 Scalable, high-performance Telegram bots built with **Python 3.11**, **Aiogram 3**, and cloud-deployed on **Render**:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Tez Bozorlik Bot</h3>
-      <p align="center">
-        <a href="https://t.me/tez_bozorlik_bot" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-@tez__bozorlik__bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/bozorlik_bot" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </p>
-      <p>Oila va jamoalar uchun aqlli umumiy bozorlik ro‘yxati bot. Jonli sinxronizatsiya, avto narx ajratish va eslatmalar.</p>
-      <ul>
-        <li>👥 <b>Ulashilgan Savat:</b> Maxsus havola orqali bitta ro‘yxatda birgalikda ishlash.</li>
-        <li>⚡ <b>Aqlli Ajratgich:</b> Narx, miqdor va mahsulot nomini avtomatik tanish (<code>non, nok 2000, uzum</code>).</li>
-        <li>🌐 <b>8 ta Til:</b> O‘zbek (lotin/kirill), rus, ingliz, qozoq, tojik, turk, qirg‘iz.</li>
-        <li>🧪 <b>54 Unit Tests:</b> 100% test qamrovi va Render cloud 24/7 avto-deploy.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💳 Tez Karta Bot</h3>
-      <p align="center">
-        <a href="https://t.me/tezkartabot" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-@tezkartabot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
-        </a>
-        <a href="https://github.com/Ibrohim-Qobilov/karta-bot" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Open_Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </p>
-      <p>Bank kartalarini xavfsiz saqlash, boshqarish va do‘stlarga tezkor ulashish uchun shifrlangan Telegram hamyon.</p>
-      <ul>
-        <li>🔒 <b>Xavfsiz Shifrlash:</b> Karta raqamlari bazada shifrlangan (Fernet/AES) holda saqlanadi.</li>
-        <li>🔑 <b>PIN-kod Himoyasi:</b> 4 xonali shaxsiy PIN va avto-bloklanish tizimi.</li>
-        <li>🔍 <b>Inline Mode:</b> Har qanday chatda <code>@tezkartabot</code> orqali kartani 1 soniyada yuborish.</li>
-        <li>🌐 <b>8 ta Til:</b> To‘liq ko‘p tilli interfeys va vaqt mintaqalari qo‘llovi.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://t.me/tez_bozorlik_bot" target="_blank">
-        <img src="https://img.shields.io/badge/👉_Telegram'da_Ochish-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Open Telegram">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://t.me/tezkartabot" target="_blank">
-        <img src="https://img.shields.io/badge/👉_Telegram'da_Ochish-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Open Telegram">
-      </a>
-    </td>
-  </tr>
-</table>
+* **[Tez Bozorlik Bot](https://t.me/tez_bozorlik_bot)** [![Telegram Bot](https://img.shields.io/badge/Telegram-@tez__bozorlik__bot-229ED9?logo=telegram&logoColor=white)](https://t.me/tez_bozorlik_bot) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/bozorlik_bot)
+  * Oila va jamoalar uchun aqlli umumiy bozorlik ro‘yxati bot. Jonli sinxronizatsiya, avto narx ajratish, 8 ta til va 54 ta unit testlar bilan 100% test qamrovi.
+
+* **[Tez Karta Bot](https://t.me/tezkartabot)** [![Telegram Bot](https://img.shields.io/badge/Telegram-@tezkartabot-229ED9?logo=telegram&logoColor=white)](https://t.me/tezkartabot) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/karta-bot)
+  * Bank kartalarini xavfsiz saqlash va do‘stlarga tezkor ulashish uchun shifrlangan Telegram hamyon (Fernet/AES, PIN-kod himoyasi va `@tezkartabot` inline mode).
 
 ---
 
