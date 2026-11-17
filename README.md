@@ -112,6 +112,10 @@
 ### Activity & Problem Solving
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrohim-Qobilov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrohim-Qobilov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Ibrohim-Qobilov" target="_blank"><img src="https://streak-stats.demolab.com/?user=Ibrohim-Qobilov&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak Stats" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Ibrohim-Qobilov/" target="_blank"><img src="https://leetcard.jacoblin.cool/Ibrohim-Qobilov?theme=dark&font=baloo" height="150" alt="LeetCode Stats" /></a>
 </p>
 
@@ -122,22 +126,22 @@
 Official packages and plugins published on the **Dart & Flutter pub.dev** ecosystem:
 
 #### [dynamic_icon_plus](https://pub.dev/packages/dynamic_icon_plus)
-[![pub.dev](https://img.shields.io/pub/v/dynamic_icon_plus?logo=dart&label=pub.dev)](https://pub.dev/packages/dynamic_icon_plus) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/dynamic_icon_plus)
+[![pub.dev](https://img.shields.io/pub/v/dynamic_icon_plus?logo=dart&label=pub.dev)](https://pub.dev/packages/dynamic_icon_plus) [![pub points](https://img.shields.io/pub/points/dynamic_icon_plus?logo=dart&color=2E8B57)](https://pub.dev/packages/dynamic_icon_plus) [![likes](https://img.shields.io/pub/likes/dynamic_icon_plus?color=E25D5D)](https://pub.dev/packages/dynamic_icon_plus) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/dynamic_icon_plus)
 
 Android va iOS ilovalarda dastur ikonkasini qayta ishga tushirmasdan (runtime) dinamik almashtirish uchun maxsus plagin. Multi-platform (iOS/Android) hamda zero restart qo'lloviga ega.
 
 #### [uz_kit](https://pub.dev/packages/uz_kit)
-[![pub.dev](https://img.shields.io/pub/v/uz_kit?logo=dart&label=pub.dev)](https://pub.dev/packages/uz_kit) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/uz_kit)
+[![pub.dev](https://img.shields.io/pub/v/uz_kit?logo=dart&label=pub.dev)](https://pub.dev/packages/uz_kit) [![pub points](https://img.shields.io/pub/points/uz_kit?logo=dart&color=2E8B57)](https://pub.dev/packages/uz_kit) [![likes](https://img.shields.io/pub/likes/uz_kit?color=E25D5D)](https://pub.dev/packages/uz_kit) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/uz_kit)
 
 O‘zbekiston fintex va mobil ilovalari uchun universal to‘plam: Uzcard/Humo avto-aniqlash, PINFL / pasport validatsiyasi va summani so‘zga o‘girish.
 
 #### [flutter_ai_stream](https://pub.dev/packages/flutter_ai_stream)
-[![pub.dev](https://img.shields.io/pub/v/flutter_ai_stream?logo=dart&label=pub.dev)](https://pub.dev/packages/flutter_ai_stream) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/flutter_ai_stream)
+[![pub.dev](https://img.shields.io/pub/v/flutter_ai_stream?logo=dart&label=pub.dev)](https://pub.dev/packages/flutter_ai_stream) [![pub points](https://img.shields.io/pub/points/flutter_ai_stream?logo=dart&color=2E8B57)](https://pub.dev/packages/flutter_ai_stream) [![likes](https://img.shields.io/pub/likes/flutter_ai_stream?color=E25D5D)](https://pub.dev/packages/flutter_ai_stream) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/flutter_ai_stream)
 
 Flutter uchun universal real-time streaming AI SDK: Gemini 2.0, OpenAI, Claude, SSE va Declarative Tool Calling support hamda drop-in `AiChatView` UI componenti.
 
 #### [network_pulse](https://pub.dev/packages/network_pulse)
-[![pub.dev](https://img.shields.io/pub/v/network_pulse?logo=dart&label=pub.dev)](https://pub.dev/packages/network_pulse) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/network_pulse)
+[![pub.dev](https://img.shields.io/pub/v/network_pulse?logo=dart&label=pub.dev)](https://pub.dev/packages/network_pulse) [![pub points](https://img.shields.io/pub/points/network_pulse?logo=dart&color=2E8B57)](https://pub.dev/packages/network_pulse) [![likes](https://img.shields.io/pub/likes/network_pulse?color=E25D5D)](https://pub.dev/packages/network_pulse) [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?logo=github)](https://github.com/Ibrohim-Qobilov/network_pulse)
 
 Universal Flutter HTTP & Dio network monitoring, in-app debug inspector (cURL export), va avtomatik Telegram error alert dispatcher.
 
